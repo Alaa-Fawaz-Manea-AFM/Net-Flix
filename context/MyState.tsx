@@ -31,7 +31,6 @@ const MyState = ({ children }: { children: React.ReactNode }) => {
   useEffect(() => {
     getUserData(setUser);
   }, []);
-  console.log(0);
 
 
   const [userinfo, setUserinfo] = useState<IUsers | any>({});
