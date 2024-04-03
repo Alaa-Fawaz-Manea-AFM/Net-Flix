@@ -1,0 +1,10 @@
+export { default as menu } from "./menu.svg";
+export { default as star } from "./star.svg";
+export { default as check } from "./check.svg";
+export { default as close } from "./close.svg";
+export { default as heart } from "./heart.svg";
+export { default as log_in } from "./login.jpg";
+export { default as info } from "./info-circle.svg";
+export { default as Loader_icon } from "./loader.svg";
+export { default as off_on } from "./off-on-power.svg";
+export { default as heart_fill } from "./heart-fill.svg";
